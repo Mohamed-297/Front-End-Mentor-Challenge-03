@@ -8,6 +8,10 @@ body{
     background-color: hsl(257, 40%, 49%);
     font-family: poppins;
 }
+.container{
+    display: flex;
+
+}
 @media screen and (max-width:375px) {
     body{
         background-image: url(images/bg-mobile.svg);
